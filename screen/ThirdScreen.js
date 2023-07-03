@@ -95,7 +95,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#F9FBFC',
     padding: 20,
-    
   },
   backButton: {
     alignSelf: 'flex-start',

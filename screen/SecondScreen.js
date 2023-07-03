@@ -51,7 +51,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    fontStyle: 'NunitoSansRegular'
   },
   backButton: {
     marginTop: 10,
@@ -94,7 +93,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
   },
   space: {
-    height: 10, 
+  height: 10,
   },
   footer: {
     alignItems: 'center',
