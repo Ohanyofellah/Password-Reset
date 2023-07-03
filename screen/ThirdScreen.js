@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#F9FBFC',
     padding: 20,
-    fontStyle: 'NunitoSansRegular'
+    
   },
   backButton: {
     alignSelf: 'flex-start',
